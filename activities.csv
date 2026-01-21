@@ -1,0 +1,11 @@
+Activity,Avg_CO2_Emission(kg/day),Category,Tip
+Car (Petrol, 20 km),4.6,Transport,"Consider bus, carpool, or cycle for short trips; maintain tyre pressure"
+Bus (20 km),1.2,Transport,"Prefer bus or shared transit"
+Bicycle (20 km),0.0,Transport,"Use bike for short commutes"
+AC usage (8 hrs/day),6.0,Household,"Set 24-26°C, use ceiling fans, service AC"
+LED Bulb (5 hrs/day),0.05,Household,"Switch to LED bulbs"
+Old Bulb (5 hrs/day),0.2,Household,"Replace with LED"
+Meat-based diet,7.0,Food,"Reduce red meat; opt for plant-based meals"
+Vegetarian diet,2.0,Food,"Increase plant-based meals"
+Online shopping (1),1.0,Lifestyle,"Consolidate orders, choose low-carbon shipping"
+Local shopping (1),0.3,Lifestyle,"Prefer local stores"
